@@ -1,0 +1,11 @@
+.card1{
+    /* min-width: 320px; */
+    /* min-height: 200px; */
+    border: 1px solid,black;
+    overflow: hidden;
+    padding: 15px;
+    box-shadow: 5px 10px 25px rgb(15, 0, 0);
+    margin: 15px;
+    transition: 0.5s linear;
+
+}

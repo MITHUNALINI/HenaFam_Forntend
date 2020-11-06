@@ -1,0 +1,65 @@
+.profileDivWarraper{
+    margin: auto;
+    position: relative;
+    top: 50px;
+    width: 65%;
+    height:775px;
+    margin: auto;
+    box-shadow: 10px 20px 30px blue;
+    padding:20px;
+    border: 5px black;
+    box-shadow: 5px 10px 25px black;
+    border: 5px solid,black;
+  
+  }
+  #userNameDiv,#firstNameDiv,#lastNameDiv,#emailDiv,#phoneDiv,#addressDiv{
+    margin: auto;
+    width: 60%;
+    min-height: 70px;
+    background-color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  #firstNamebox,#lastNamebox,#emailbox,#phonebox,#addressbox{
+    min-height:70px;
+  }
+  #userNameDivTitle,#firstNameDivTitle,#lastNameDivTitle,#emailDivTitle{
+    margin-left: 20px;
+  }
+  #userNameLabel,#firstNameLabel,#lastNameLabel,#emailLabel{
+    margin-left: 20px;
+  }
+  #firstNameEditeBtn,#lastNameEditeBtn,#emailEditeBtn,#phoneEditeBtn,#addressEditeBtn{
+    float: right;
+    background-color:#926F34;
+  
+  }
+  #firstNameIp,#lastNameIp,#emailIp{
+    width: 90%;
+    margin: auto;
+    display: flex;
+  }
+  /*
+  .profileSideDiv{
+    width: 100%;
+    float: left;
+    border-right: 1px solid black;
+  }
+  #proSideDivBtn{
+    display: flex;
+    margin: auto;
+    width: 200px;
+    background-color: #03a9f4;
+    color: white;
+    border: 2px solid #03a9f4;
+    font-weight: bold;
+  }
+  #proSideDivBtn:hover{
+    color: #03a9f4;
+    background-color: white;
+    border: 2px solid #03a9f4;
+  }
+  */
+
+
+	
